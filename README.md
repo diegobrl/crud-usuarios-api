@@ -17,6 +17,7 @@ Você também pode utilizar o método GET para visualizar registros individuais.
 
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0004.png)
 
+Substitua o código pelo indicado abaixo para atualizar o item 3 e clique em SEND. O resultado será o código 204 (indicação de que a solicitação foi realizada com sucesso), conforme definido na função Atualizar da classe UsuariosController.cs.
 
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0005.png)
 
