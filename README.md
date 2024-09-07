@@ -22,5 +22,5 @@ Substitua o código pelo indicado abaixo para atualizar o item 3 e clique em SEN
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0005.png)
 
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0006.png)
-
+Por fim, para testar a remoção no Insomnia, selecione o método DELETE, insira a URL https://localhost:7154/api/usuarios/3 e clique em SEND. O registro com o ID 3 será excluído.
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0007.png)
