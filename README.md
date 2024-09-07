@@ -11,6 +11,7 @@ Agora, teste o método Cadastrar (POST). Escolha o método POST.
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0002.png)
 
 Você pode visualizar a lista de itens do banco de dados no novo projeto, alterando o método para GET e clicando em SEND. Os itens serão exibidos na janela lateral, conforme mostrado na imagem.
+
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0003.png)
 
 Você também pode utilizar o método GET para visualizar registros individuais. Basta inserir a URL http://localhost:5038/api/usuarios/3 — substituindo o número 3 por outro ID que deseja consultar — e clicar em SEND. Nesse exemplo, o resultado exibirá o terceiro item do banco de dados.
@@ -21,6 +22,9 @@ Substitua o código pelo indicado abaixo para atualizar o item 3 e clique em SEN
 
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0005.png)
 
+Por fim, para testar a remoção no Insomnia, selecione o método DELETE, insira a URL http://localhost:5038/api/usuarios/3 e clique em SEND. O registro com o ID 3 será excluído.
+
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0006.png)
-Por fim, para testar a remoção no Insomnia, selecione o método DELETE, insira a URL https://localhost:7154/api/usuarios/3 e clique em SEND. O registro com o ID 3 será excluído.
+
+Você pode verificar a lista de itens no banco de dados após a exclusão do projeto, inserindo a URL http://localhost:5038/api/usuarios/ e clicando em SEND. Na janela lateral, serão exibidos todos os itens, exceto o projeto que foi deletado, como mostrado na imagem.
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0007.png)
