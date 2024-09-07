@@ -10,8 +10,10 @@ Agora, teste o método Cadastrar (POST). Escolha o método POST.
 
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0002.png)
 
-
+Você pode visualizar a lista de itens do banco de dados no novo projeto, alterando o método para GET e clicando em SEND. Os itens serão exibidos na janela lateral, conforme mostrado na imagem.
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0003.png)
+
+
 
 ![Logo da Minha Empresa](https://github.com/diegobrl/crud-usuarios-api/blob/main/screenshot/0004.png)
 
